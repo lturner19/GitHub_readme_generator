@@ -2,36 +2,36 @@
   # GitHub Readme Generator
       
   ## Description
-  As a developer I want to use Node.js to create a README.md file that contains my GitHub Profile.
+  As a developer I want to use node.js to generate a readme file with my GitHub profile.
     
   <br>
       
   ## Table of Contents
     
-  * [Installation](##Installation) 
-  * [Usage](##Usage)
-  * [License](##License)
-  * [Contributing](##Contributing)
-  * [Tests](##Tests)
-  * [Questions](###Questions)
+  * [Installation](#Installation) 
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributing](#Contributing)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
     
   <br>
     
   ## Installation
-  axios and inquirer  
+  npm i  
     
   <br>
       
   ## Usage
-    
+  n/a  
   <br>
       
   ## License
-  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
       
   ## Contributing
-  open source
+   ope source
   <br>
       
   ## Tests
