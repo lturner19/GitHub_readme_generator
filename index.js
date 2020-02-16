@@ -1,7 +1,8 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-let generateReadme = require("./utils/generateMarkdown");
+let generateReadme = require("./utils/generateMarkdown"); 
 let api = require("./utils/api"); 
+let answerURL = ""
 
 let userQuestions = (questions) => {
 
@@ -47,4 +48,3 @@ let userQuestions = (questions) => {
       name: "contribute",
       message: "What does the user need to know about contributing to the repo?"
     },
-  
