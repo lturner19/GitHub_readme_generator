@@ -11,7 +11,8 @@ let generateReadme = (answers, avatar_url, html_url) => {
   }
 
 
-  //returns template literal ' ' with user input
+  //returns template literal (allows user input to be inserted)
+  //table of contents: hashtags enable internal links
   return `
   # ${answers.title}
       
@@ -21,13 +22,13 @@ let generateReadme = (answers, avatar_url, html_url) => {
   <br>
       
   ## Table of Contents
-    
-  * [Installation](##Installation) 
-  * [Usage](##Usage)
-  * [License](##License)
-  * [Contributing](##Contributing)
-  * [Tests](##Tests)
-  * [Questions](###Questions)
+  
+  * [Installation](#Installation) 
+  * [Usage](#Usage)
+  * [License](#License)
+  * [Contributing](#Contributing)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
     
   <br>
     
