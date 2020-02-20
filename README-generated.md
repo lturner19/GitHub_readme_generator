@@ -1,8 +1,8 @@
 
-  # GitHub Readme Generator
+  # Readme File Generator
       
   ## Description
-  As a developer I want to use Node.JS to create a readme file based on user input.
+  As a developer I would like to use Node.js to generate a readme file.
     
   <br>
       
@@ -18,24 +18,24 @@
   <br>
     
   ## Installation
-  There are two dependencies that are used and they are: Axios and Inquirer  
+  npm i  
     
   <br>
       
   ## Usage
-  Please watch the gif of readme file being generated  
+    
   <br>
       
   ## License
-  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
       
   ## Contributing
-  Please contact, to inquire about contributing
+  Please contat to inquire about contributing
   <br>
       
   ## Tests
-  npm tests  
+  npm test  
   <br>
       
   ### Questions
