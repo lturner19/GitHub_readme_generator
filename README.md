@@ -26,6 +26,7 @@ To utilize the program, the user will need to download
 <img src="./utils/Readme_Generator.gif"/>
 
 <br>
+<br>
 
 ### RESOURCES
 
